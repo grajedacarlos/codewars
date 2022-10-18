@@ -6,7 +6,7 @@ function multiply(a, b){
     return a*b;
   }
 
-//Other Solution
+//Best Practice
 multiply = function (a, b) {
     return a * b;
   }
