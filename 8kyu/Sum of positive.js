@@ -18,5 +18,3 @@ function positiveSum(arr) {
     }
     return total;
   }
-
-//Best practice- same

@@ -15,5 +15,3 @@
 function opposite(number) {
     return(-number);
   }
-
-//Best practice- same

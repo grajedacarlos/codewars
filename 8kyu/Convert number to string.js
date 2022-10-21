@@ -14,6 +14,3 @@
 //My solution
 function numberToString(num) {
   return num.toString();
-  
-
-  //Best practice- same

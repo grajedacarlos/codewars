@@ -19,5 +19,3 @@
 function makeNegative(num) {
     return -Math.abs(num)
   }
-
-//Best practice- same
